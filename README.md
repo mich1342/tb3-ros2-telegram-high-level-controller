@@ -16,6 +16,11 @@ Endpoint to get the last message is "/lastmessage" returning data in format "<ch
 ## Telegram Bot 
 Link of the bot is [here](https://t.me/ros2_tb3_bot)
 
+## Dependencies and Test Environment
+- Turtlebot3
+- ROS2
+- Ubuntu 20.04 LTS
+  
 ##  Credits
 - nicolasaw [high-controller-tb3-ros2](https://github.com/nicolasaw/high-controller-tb3-ros2) repo.
 - yhorose [cpp-httplib](https://github.com/yhirose/cpp-httplib) repo.
